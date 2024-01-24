@@ -10,4 +10,4 @@ hello echo
 hello echo
 hello echo
 hello echo master test
-hello echo
+hello echo hot-fix test
